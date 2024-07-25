@@ -14,6 +14,7 @@ namespace MiPrimerAplicacion
     {
         public Form1()
         {
+            //Le agrego un comentario al archivo
             InitializeComponent();
         }
 
